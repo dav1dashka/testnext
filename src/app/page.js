@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="">
-        "Hands of Friends"
+      <div>Home</div>
     </main>
   )
 }
